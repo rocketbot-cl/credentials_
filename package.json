@@ -11,6 +11,7 @@
     "docker":true,
     "name": "credentials_",
     "dependencies": {
+        "keyring": "20.0.0"
     },
     "title": {
         "en": "Credentials",
