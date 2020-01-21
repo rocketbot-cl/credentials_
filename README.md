@@ -5,6 +5,11 @@
 
 ![alt text](https://raw.githubusercontent.com/rocketbot-cl/credentials_/master/example/credentials2.png)
 
+<strong>Video Example:</strong>
+
+[![Credentials](https://img.youtube.com/vi/lIrIHUj6ssY/0.jpg)](https://www.youtube.com/watch?v=lIrIHUj6ssY "Credentials")
+
+
 <h2>Dependencies</h2>
 
 <ul>
