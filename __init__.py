@@ -46,10 +46,10 @@ if module == "getCredentials":
         name_ = GetParams('name_')
         user_ = GetParams('user_')
         var_ = GetParams('var_')
-        print(name_,user_)
+
 
         pass_ = keyring.get_password(name_, user_)
-        print('PASS',pass_)
+
     except:
         PrintException()
 
