@@ -47,6 +47,8 @@ if module == "getCredentials":
         user_ = GetParams('user_')
         var_ = GetParams('var_')
 
+        if name_ is None:
+            name_ = ""
 
         pass_ = keyring.get_password(name_, user_)
 
